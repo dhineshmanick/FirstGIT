@@ -10,5 +10,8 @@ public class Factorial {
             factorial *= i;
         }
         System.out.printf("Factorial of %d = %d", num, factorial);
+        wreb
+        eb
+        
     }
 }
