@@ -11,8 +11,6 @@ public class Factorial {
         }
         System.out.printf("Factorial of %d = %d", num, factorial);
         
-        rtjrn
-        rtrnfevv
-        rtbb
+        
     }
 }
